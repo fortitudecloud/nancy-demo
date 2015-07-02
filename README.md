@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Demo project for hosting Nancy and Mono inside a Docker container
 =================================================================
 
@@ -16,3 +17,7 @@ If you're using via boot2docker then specify the VM IP as part of the curl comma
   $ curl $(boot2docker ip):8080
 ```
 
+=======
+# nancy-demo
+nancyfx application with razor view engine support
+>>>>>>> 06535eb7e33270afbf44790289ff2519313fb978
